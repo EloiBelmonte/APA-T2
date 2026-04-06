@@ -17,7 +17,7 @@
 >
 > ¿Quiere saber más?, consulte con el profesorado.
   
-## ELOI BELMONTE ALCALÁ
+## Nombre y Apellidos
 
 > [!Important]
 > Introduzca a continuación su nombre y apellidos:
