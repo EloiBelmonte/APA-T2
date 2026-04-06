@@ -90,7 +90,7 @@ comprobarse las siguientes condiciones:
 
 #### Ejecución de los tests unitarios
 
-![Ejecución de los tests unitarios](tests.png)
+![Ejecución de los tests unitarios](verbose.png)
 
 #### Código desarrollado
 
